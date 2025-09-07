@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YashVardhan | Industrial Intelligence & Automation</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f8f9fa;
+      color: #222;
+      line-height: 1.6;
+    }
+    header {
+      background: #0a192f;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      letter-spacing: 1px;
+    }
+    header p {
+      margin-top: 0.5rem;
+      font-size: 1.2rem;
+      color: #64ffda;
+    }
+    nav {
+      background: #112240;
+      padding: 0.5rem;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      color: #64ffda;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: white;
+      padding: 1.5rem;
+      margin: 1rem 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #0a192f;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>YashVardhan</h1>
+    <p>Industrial Intelligence | IoT · AI · Automation</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#vision">Vision</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <div class="card">
+      <h2>About Us</h2>
+      <p>
+        At <b>YashVardhan</b>, we combine <b>Electrical Engineering</b>, 
+        <b>Industrial IoT</b>, and <b>Machine Learning</b> to create 
+        intelligent solutions that transform industries.  
+        From predictive maintenance to smart automation, we empower 
+        businesses to achieve efficiency and global competitiveness.
+      </p>
+    </div>
+  </section>
+
+  <section id="services">
+    <div class="card">
+      <h2>Our Services</h2>
+      <ul>
+        <li>⚡ Predictive Maintenance with IoT & AI</li>
+        <li>⚡ Smart Automation & Robotics Integration</li>
+        <li>⚡ Industrial Data Analytics & Machine Learning</li>
+        <li>⚡ Electrical Design & Control Software Solutions</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="vision">
+    <div class="card">
+      <h2>Our Vision</h2>
+      <p>
+        To be a leader in <b>Industrial Intelligence</b>, driving innovation 
+        through IoT, AI, and sustainable technologies.  
+        We aim to empower MSMEs and large-scale industries while contributing 
+        to <b>green energy, efficiency, and productivity</b>.
+      </p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="card">
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:info@yashvardhan.co.in">info@yashvardhan.co.in</a></p>
+      <p>LinkedIn: <a href="#" target="_blank">linkedin.com/company/yashvardhan</a></p>
+      <p>Location: India</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 YashVardhan | Industrial IoT · AI · Automation</p>
+  </footer>
+
+</body>
+</html>
